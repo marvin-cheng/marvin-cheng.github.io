@@ -65,7 +65,7 @@ sections:
         - title: Assistant Coordinator
           company: NIOSH
           company_url: ''
-          company_logo: fas
+          company_logo: 
           location: Morgantown, WV
           date_start: '2018-09-15'
           date_end: ''
