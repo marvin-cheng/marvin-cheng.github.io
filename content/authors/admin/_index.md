@@ -25,7 +25,7 @@ organizations:
     url: https://www.cdc.gov/niosh/topics/robotics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-robot interaction, cyberphysical system, and control systems.
 
 # Interests to show in About widget
 interests:
@@ -94,19 +94,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/MarvinHCheng
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=vdIyXcoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/marvin-cheng
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/marvin-cheng-56864925
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Marvin Cheng is a research engineer in the Center for Occupational Robotics Research at NIOSH. Her research interests include operation safety of robots in workspaces, human-robot interaction, control system, and cyberphysical systems used for human-robot collaboration. He leads the Robotic Research Laboratory in Morgantwon, WV, which investigates operation strategies for robots in various workspaces and mobile sensor networks.
 {style="text-align: justify;"}
