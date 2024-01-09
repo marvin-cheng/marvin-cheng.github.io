@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Sustainable Energy Harvesting Mechanism with Flow-Induced Vibration"
 authors:
 - admin
 - Robert Ford
@@ -64,8 +64,7 @@ projects: []
 slides: example
 ---
 
----
-title: "An example journal article"
+title: "Trends in Robotics Research in Occupational Safety and Health: A Scientometric Analysis"
 authors:
 - admin
 - Robert Ford
