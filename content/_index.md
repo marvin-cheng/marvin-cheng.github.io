@@ -107,12 +107,12 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-10-01'
           description: ''
           icon: coursera
-          organization: Coursera
+          organization: NIOSH
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Smart Path Planning of Collaborative Robots for Worker Safety 
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
