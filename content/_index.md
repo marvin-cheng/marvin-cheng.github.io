@@ -75,7 +75,7 @@ sections:
           location: Daytonay Beach, FL
           date_start: '2017-08-01'
           date_end: '2018-09-14'
-          description: |2-
+          description: 
           * Instructed and led research in control, mechatronics, robotics, and dynamic systems.
         - title: Assistant Professor
           company: West Virginia University
@@ -84,7 +84,7 @@ sections:
           location: Morgantown, WV
           date_start: '2010-08-10'
           date_end: '2017-07-30'
-          description: |2-
+          description: 
           * Instructed and led research in control, mechatronics, robotics, and dynamic systems.
           * Guided undergraduate research team for national robotics competitions.
           *	Provided guidance to undergraduate and graduate students on academic research projects.
