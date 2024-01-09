@@ -83,10 +83,12 @@ sections:
           location: Morgantown, WV
           date_start: '2010-08-10'
           date_end: '2017-07-30'
-          description: 
-          * Instructed and led research in control, mechatronics, robotics, and dynamic systems.
-          * Guided undergraduate research team for national robotics competitions.
-          *	Provided guidance to undergraduate and graduate students on academic research projects.
+          description: |2-
+            Responsibilities include:
+
+            * Instructed and led research in control, mechatronics, robotics, and dynamic systems.
+            * Guided undergraduate research team for national robotics competitions.
+            *	Provided guidance to undergraduate and graduate students on academic research projects.
 
     design:
       columns: '2'
