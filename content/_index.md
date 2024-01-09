@@ -64,9 +64,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Coordinate the research projects conducted in the Robotics Safety Research Laboratory.
+              *	Conduct research activities as a project investigator of safety and interaction between collaborative robotic device and human workers in manufacturing workspaces.
+              * 	Draft/update the industry standards and related documents on Safety Requirements for Industrial Robots and Robot Systems (ANSI/RIA R15.06) and Safety Requirements for Industrial Mobile Robots and Robot Systems (ANSI/RIA R15.08).
+              * Engage in the alliance with Occupational Safety and Health Administration (OSHA) and Association for Advancing Automation (A3/RIA) to promote workspace safety research on industrial robotics.  
         - title: Associate Professor
           company: Embry Riddle Aeronautical University
           company_url: ''
