@@ -75,7 +75,7 @@ sections:
           location: Daytonay Beach, FL
           date_start: '2017-08-01'
           date_end: '2018-09-14'
-          description: * Instructed and led research in control, mechatronics, robotics, and dynamic systems.
+          description: Instructed and led research in control, mechatronics, robotics, and dynamic systems.
         - title: Assistant Professor
           company: West Virginia University
           company_url: ''
