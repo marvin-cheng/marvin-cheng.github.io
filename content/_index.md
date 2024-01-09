@@ -66,7 +66,7 @@ sections:
 
               * Coordinate the research projects conducted in the Robotics Safety Research Laboratory.
               *	Conduct research activities as a project investigator of safety and interaction between collaborative robotic device and human workers in manufacturing workspaces.
-              * 	Draft/update the industry standards and related documents on Safety Requirements for Industrial Robots and Robot Systems (ANSI/RIA R15.06) and Safety Requirements for Industrial Mobile Robots and Robot Systems (ANSI/RIA R15.08).
+              * Draft/update the industry standards and related documents on Safety Requirements for Industrial Robots and Robot Systems (ANSI/RIA R15.06) and Safety Requirements for Industrial Mobile Robots and Robot Systems (ANSI/RIA R15.08).
               * Engage in the alliance with Occupational Safety and Health Administration (OSHA) and Association for Advancing Automation (A3/RIA) to promote workspace safety research on industrial robotics.  
         - title: Associate Professor
           company: Embry Riddle Aeronautical University
@@ -75,7 +75,20 @@ sections:
           location: Daytonay Beach, FL
           date_start: '2017-08-01'
           date_end: '2018-09-14'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+          * Instructed and led research in control, mechatronics, robotics, and dynamic systems.
+        - title: Assistant Professor
+          company: West Virginia University
+          company_url: ''
+          company_logo:
+          location: Morgantown, WV
+          date_start: '2010-08-10'
+          date_end: '2017-07-30'
+          description: |2-
+          * Instructed and led research in control, mechatronics, robotics, and dynamic systems.
+          * Guided undergraduate research team for national robotics competitions.
+          *	Provided guidance to undergraduate and graduate students on academic research projects.
+
     design:
       columns: '2'
   - block: accomplishments
