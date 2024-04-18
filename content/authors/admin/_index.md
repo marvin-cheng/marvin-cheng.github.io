@@ -79,5 +79,5 @@ social:
 highlight_name: true
 ---
 
-Marvin Cheng is a research engineer in the Center for Occupational Robotics Research at NIOSH. Her research interests include operation safety of robots in workspaces, human-robot interaction, control system, and cyberphysical systems used for human-robot collaboration. He leads the Robotic Research Laboratory in Morgantwon, WV, which investigates operation strategies for robots in various workspaces and mobile sensor networks.
+Marvin Cheng is a research engineer in the Center for Occupational Robotics Research at NIOSH. HHis research interests include operation safety of robots in workspaces, human-robot interaction, control system, and cyberphysical systems used for human-robot collaboration. He leads the Robotic Research Laboratory in Morgantwon, WV, which investigates operation strategies for robots in various workspaces and mobile sensor networks.
 {style="text-align: justify;"}
