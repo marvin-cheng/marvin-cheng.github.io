@@ -47,13 +47,8 @@
     <nav id="navbar" class="navbar nav-menu">
       <ul>
         <li><a href="#hero"  class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
-        <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About Me</span></a></li>
-        <li><a href="#news" class="nav-link scrollto"><i class="bx bx-news"></i> <span>Research and Lab News</span></a></li>
-        <li><a href="#blog" class="nav-link scrollto"><i class="bx bx-news"></i> <span>Personal Blog</span></a></li>
-        <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Experiences</span></a></li>
-        <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projects</span></a></li>
-        <li><a href="#publication" class="nav-link scrollto"><i class="bx bx-book"></i> <span>Recent Publications</span></a></li>
-        <li><a href="#teaching" class="nav-link scrollto"><i class="bx bxs-chalkboard"></i> <span>Teaching Experiences</span></a></li>
+        <li><a href="#recent" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Recent Articles</span></a></li>
+        <li><a href="#blogs" class="nav-link scrollto"><i class="bx bx-news"></i> <span>Archived Blog</span></a></li>
       </ul>
     </nav><!-- .nav-menu -->
 
@@ -75,45 +70,48 @@
 
   <main id="main">
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <!-- ======= Recent Blog Section ======= -->
+    <section id="recent" class="recent">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>About Me</h2>
-          <p></p>
+        <div class="row gy-4">
+
+          <div class="col-lg-4">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="blog/images/202604_1.jpeg" alt="">
+                </div>
+                <div class="swiper-slide">
+                  <img src="blog/images/202604_2.jpg" alt="">
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+
+          <div class="col-lg-8">
+            <div class="portfolio-info">
+              <h3>On the Challenges of AI-Based Human Motion Modeling for Task-Specific Applications</h3>
+              <p> In recent work, I have been exploring a range of artificial intelligence approaches for generating human motion models, particularly for specific, task-oriented movements relevant to human–robot interaction and safety applications. The initial motivation was to leverage recent advances in machine learning—especially data-driven and hybrid modeling techniques—to improve the fidelity and adaptability of motion prediction. </p>
+
+              <p> Several approaches were investigated, including deep learning-based sequence models as well as methods that integrate physical constraints with learned representations. Some of these approaches demonstrated promising performance in capturing structured motion patterns under controlled conditions. In particular, certain models were able to reproduce specific trajectories with reasonable accuracy.</p>
+
+              <p> However, the overall outcome has been less efficient and less satisfactory than I initially anticipated.</p>
+
+              <p> A key challenge lies in the practical implementation of these methods. Many of the AI-based approaches require substantial effort in data preparation, model tuning, and computational resources. Moreover, their performance often lacks robustness when extended beyond narrowly defined scenarios. While some approaches clearly outperform others in specific contexts, the improvements are not yet consistent or generalizable enough to support broader application.</p>
+
+              <p> In comparison, more traditional modeling techniques—although less flexible—can offer advantages in terms of efficiency, interpretability, and ease of deployment.</p>
+
+              <p> At this stage, I would characterize the results as encouraging but incomplete. Despite identifying several promising directions, I cannot yet conclude that the current approaches fully meet the intended goals. There remains a significant gap between methodological capability and practical usability, and further work is needed to improve both efficiency and generalizability.</p>
+
+              <p> This experience highlights an ongoing challenge in applying AI to engineering problems: the balance between model sophistication and real-world applicability. While progress is evident, it is equally clear that there is still a long way to go. </p>
+           </div>
+          </div>
+
         </div>
 
-        <div class="row">
-          <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3> </h3>
-            <p>
-              Marvin Cheng is a research engineer in the Center for Occupational Robotics Research at NIOSH. He is currently the Assistant Coordinator of the Center for the Occupational Robotics Research (CORR), and the Team Lead of the Safety Control Team at the National Institute for Occupational Safety and Health. His research interests include operation safety of robots in workspaces, human-robot interaction, control system, and cyberphysical systems used for human-robot collaboration. He leads the Robotic Research Laboratory in Morgantwon, WV, which investigates operation strategies for robots in various workspaces and mobile sensor networks.
-            </p>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Company:</strong> <span>CDC/NIOSH</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Job title:</strong> <span>Assistant Coordinator / Team Lead</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Education:</strong> <span>PhD of Mechanical Engineering</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>School:</strong> <span>Purdue University, 2005</span></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>marvin-cheng.github.io</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>304.285.5787</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Morgantown, WV</span></li>
-                </ul>
-              </div>
-            </div>
-            <p><button><a href="assets/CV_Cheng.pdf">Download CV</a></p>
-           
-          </div>
-        </div>
 
       </div>
     </section><!-- End About Section -->
